@@ -1,4 +1,4 @@
-I'm a graduate fellow in public affairs at Princeton interested in technology policy, renewable energy, and the environment. 
+I'm a graduate fellow in public affairs at Princeton interested in energy and environmental policy. 
 
 <!---
 pswild/pswild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
