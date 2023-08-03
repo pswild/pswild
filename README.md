@@ -1,4 +1,4 @@
-I'm a graduate fellow in public affairs at Princeton studying energy policy and grid decarbonization.
+I'm a graduate fellow at Princeton studying energy policy and grid decarbonization.
 
 <!---
 pswild/pswild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
